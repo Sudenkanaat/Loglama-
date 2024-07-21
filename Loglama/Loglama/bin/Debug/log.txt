@@ -1,0 +1,4 @@
+suden
+16:59
+yanlış sayı girildi@   konum: Loglama.Program.Loglama() C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 26
+**************

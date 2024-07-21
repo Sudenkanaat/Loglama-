@@ -1,0 +1,32 @@
+suden
+2024-06-08 17:03:24
+Geçersiz kart numarası
+   konum: PaymentSystem.Program.ProcessPayment() C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 68
+********************
+
+suden
+2024-06-08 17:12:20
+Geçersiz kart numarası
+   konum: PaymentSystem.Program.ValidateCardDetails(String cardNumber, String cvv, String expiryDate, Decimal amount) C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 51
+   konum: PaymentSystem.Program.ProcessPayment() C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 36
+********************
+
+suden
+2024-06-08 22:02:34
+Kullanıcı bulunamadı
+   konum: PaymentSystem.Program.ProcessPayment() C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 27
+********************
+
+suden
+2024-06-08 22:02:56
+Kartın son kullanma tarihi geçmiş
+   konum: PaymentSystem.Program.ValidateCardDetails(String cardNumber, String cvv, String expiryDate, Decimal amount) C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 113
+   konum: PaymentSystem.Program.ProcessPayment() C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 44
+********************
+
+suden
+2024-06-08 22:07:29
+Kullanıcı bulunamadı
+   konum: PaymentSystem.Program.ProcessPayment() C:\Users\suden\source\repos\Loglama\Loglama\Program.cs içinde: satır 27
+********************
+
